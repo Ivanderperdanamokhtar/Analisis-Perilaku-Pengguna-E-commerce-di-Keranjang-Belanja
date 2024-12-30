@@ -1,6 +1,5 @@
 # Analisis-Perilaku-Pengguna-E-commerce-di-Keranjang-Belanja
-"Analisis Pengabaian Keranjang Belanja untuk memahami perilaku pengguna dalam funnel e-commerce, mengidentifikasi alasan utama pengabaian, dan memberikan rekomendasi strategis untuk meningkatkan tingkat konversi."
-Dari dokumen panjang yang Anda kirimkan, berikut adalah struktur yang lebih terorganisir untuk mengunggah analisis ini ke GitHub dalam file README.md. Saya akan membuatnya menggunakan bahasa Indonesia agar sesuai dengan konteks analisis Anda.
+Analisis Pengabaian Keranjang Belanja untuk memahami perilaku pengguna dalam funnel e-commerce, mengidentifikasi alasan utama pengabaian, dan memberikan rekomendasi strategis untuk meningkatkan tingkat konversi.
 
 ## **Deskripsi Proyek**
 Proyek ini bertujuan untuk menganalisis perjalanan pengguna dalam situs e-commerce, khususnya saat mereka menambahkan produk ke keranjang belanja tetapi tidak menyelesaikan pembelian. Fokus utama adalah memahami tahap-tahap funnel di mana pengguna meninggalkan proses dan menyusun strategi untuk mengurangi tingkat pengabaian keranjang.
