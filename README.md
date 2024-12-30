@@ -60,21 +60,8 @@ Proyek ini bertujuan untuk menganalisis perjalanan pengguna dalam situs e-commer
    - Tawarkan diskon waktu terbatas untuk mendorong pembelian.
 
 ---
-
-## **Cara Menjalankan Analisis**
 ### **Prasyarat**
 - Python 3.x
 - Pandas
 - Matplotlib
 
-### **Langkah-Langkah**
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   ```
-2. Jalankan file Jupyter Notebook untuk analisis:
-   ```bash
-   jupyter notebook analysis.ipynb
-   ```
-
----
